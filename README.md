@@ -1,2 +1,2 @@
 # DS-Coin
-A simple cryptocurrency
+Cryptocurrency Transaction System Development
